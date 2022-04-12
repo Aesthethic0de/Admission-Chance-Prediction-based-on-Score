@@ -7,4 +7,4 @@ RESULT:-
 
 
 2. Deployement on Heroku
-https://admissionprediction002.herokuapp.com/
+https://grepre11.herokuapp.com/
